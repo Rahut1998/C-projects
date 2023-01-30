@@ -1,0 +1,15 @@
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\bin\Debug\net6.0\Coffe.exe
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\bin\Debug\net6.0\Coffe.deps.json
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\bin\Debug\net6.0\Coffe.runtimeconfig.json
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\bin\Debug\net6.0\Coffe.dll
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\bin\Debug\net6.0\Coffe.pdb
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\obj\Debug\net6.0\Coffe.csproj.AssemblyReference.cache
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\obj\Debug\net6.0\Coffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\obj\Debug\net6.0\Coffe.AssemblyInfoInputs.cache
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\obj\Debug\net6.0\Coffe.AssemblyInfo.cs
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\obj\Debug\net6.0\Coffe.csproj.CoreCompileInputs.cache
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\obj\Debug\net6.0\Coffe.dll
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\obj\Debug\net6.0\refint\Coffe.dll
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\obj\Debug\net6.0\Coffe.pdb
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\obj\Debug\net6.0\Coffe.genruntimeconfig.cache
+C:\Users\a.rahutanavar\source\repos\Coffe_soln\Coffe\obj\Debug\net6.0\ref\Coffe.dll
