@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.rahutanavar\\source\\repos\\Coffe_soln\\Coffe\\Coffe.csproj": {}
+    "C:\\Users\\a.rahutanavar\\Source\\Repos\\C-projects\\Coffe_soln\\Coffe\\Coffe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.rahutanavar\\source\\repos\\Coffe_soln\\Coffe\\Coffe.csproj": {
+    "C:\\Users\\a.rahutanavar\\Source\\Repos\\C-projects\\Coffe_soln\\Coffe\\Coffe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.rahutanavar\\source\\repos\\Coffe_soln\\Coffe\\Coffe.csproj",
+        "projectUniqueName": "C:\\Users\\a.rahutanavar\\Source\\Repos\\C-projects\\Coffe_soln\\Coffe\\Coffe.csproj",
         "projectName": "Coffe",
-        "projectPath": "C:\\Users\\a.rahutanavar\\source\\repos\\Coffe_soln\\Coffe\\Coffe.csproj",
+        "projectPath": "C:\\Users\\a.rahutanavar\\Source\\Repos\\C-projects\\Coffe_soln\\Coffe\\Coffe.csproj",
         "packagesPath": "C:\\Users\\a.rahutanavar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.rahutanavar\\source\\repos\\Coffe_soln\\Coffe\\obj\\",
+        "outputPath": "C:\\Users\\a.rahutanavar\\Source\\Repos\\C-projects\\Coffe_soln\\Coffe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

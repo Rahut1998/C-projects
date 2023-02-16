@@ -37,4 +37,10 @@ class coffee
                 goto second;
         }
         Console.WriteLine("Thanks for shopping with us toatal cost {0}",totalcost);
-}}
+        Console.WriteLine("Thanks for shopping with us have nice day ahead");
+        Console.WriteLine("Please visit once again");
+        Console.WriteLine("Please visit once again");
+        Console.WriteLine("Thank you visit again");
+        Console.WriteLine("Thank you visit again");
+    }
+}
